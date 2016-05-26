@@ -1,0 +1,19 @@
+<div class="row">
+    <div ng-repeat="programme in results" class="col-sm-2">
+        <div class="panel panel-primary">
+            <div class="panel-heading">{{programme.name}}</div>
+            <div class="panel-body" style="padding: 0px !important;"><img ng-src="{{programme.image_path}}" style="width:100%; height: 94px;" alt="Image"></div>
+            <div class="panel-footer" style="background:black">
+                <div awesome-rating="programme.rating" awesome-rating-options="options"></div>
+            </div>
+
+        </div>
+    </div>
+    <div ng-repeat="box in boxes" class="col-sm-2" ng-hide="resultsPresent">
+        <div class="panel panel-primary">
+            <div class="panel-heading">NO CONTENT</div>
+            <div class="panel-body"><img src="resources/images/no-content.jpg" class="img-responsive" style="width:100%" alt="Image"></div>
+            <div class="panel-footer"></div>
+        </div>
+    </div>
+</div>

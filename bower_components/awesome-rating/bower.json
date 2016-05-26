@@ -1,0 +1,35 @@
+{
+  "name": "awesome-rating",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bandraszyk/awesome-rating",
+  "main": "dist/awesomeRating.min.js",
+  "authors": [
+    "bandro"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "docs",
+    "samples",
+    "src",
+    "gruntfile.js",
+    "package.json"
+  ],
+  "keywords": [
+    "rating",
+    "fractional rating",
+    "jquery",
+    "plugin",
+    "html",
+    "flexible",
+    "angularjs",
+    "knockoutjs"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+    <programmeData>
+        <programme id="1">
+            <name>The walking dead</name>
+            <image_path>resources/images/the-walking-dead-season-5-trailer.png</image_path>
+            <rating>0</rating>
+        </programme>
+        <programme id="2">
+            <name>The big bang theory</name>
+            <image_path>resources/images/the-big-bang-theory-stars-recent-side-acting-gigs-so-popular-so-busy-306866.jpg</image_path>
+            <rating>1</rating>
+        </programme>
+        <programme id="3">
+            <name>Vikings</name>
+            <image_path>resources/images/20823568_vikings_season_2__140325154615.jpg</image_path>
+            <rating>1</rating>
+        </programme>
+        <programme id="4">
+            <name>24</name>
+            <image_path>resources/images/24-Complete-Series-Box-Art.jpg</image_path>
+            <rating>1</rating>
+        </programme>
+        <programme id="5">
+            <name>Arrow</name>
+            <image_path>resources/images/4496136-1173724367-arrow-.jpeg</image_path>
+            <rating>1</rating>
+        </programme>
+        <programme id="6">
+            <name>Gotham</name>
+            <image_path>resources/images/640_Gotham_Season_Two.jpg</image_path>
+            <rating>1</rating>
+        </programme>
+        <programme id="7">
+            <name>Daredevil</name>
+            <image_path>resources/images/56c5255d77814.jpg</image_path>
+            <rating>1</rating>
+        </programme>
+        <programme id="8">
+            <name>The Flash</name>
+            <image_path>resources/images/TV_Gallery_Flash01_53712e35b9f542.99255638.jpg</image_path>
+            <rating>1</rating>
+        </programme>
+        <programme id="9">
+            <name>Game of Thrones</name>
+            <image_path>resources/images/gematruna.jpg</image_path>
+            <rating>1</rating>
+        </programme>
+        <programme id="10">
+            <name>The Simpsons</name>
+            <image_path>resources/images/page1_610a.jpg</image_path>
+            <rating>1</rating>
+        </programme>
+    </programmeData>
